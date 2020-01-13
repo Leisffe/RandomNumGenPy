@@ -1,3 +1,3 @@
 # Random Number Generator Python
 
-Tu tu mozesz pisać coś też spokojnie
+Just a quick task for classes.
